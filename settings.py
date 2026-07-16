@@ -1,0 +1,24 @@
+# settings.py
+
+# 屏幕设置
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+
+# 颜色定义 (R, G, B)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+SKY_BLUE = (135, 206, 235)
+BROWN = (139, 69, 19)
+GOLD = (255, 215, 0)
+
+# 玩家属性
+PLAYER_SPEED = 5
+PLAYER_JUMP_POWER = 14
+GRAVITY = 0.8
+
+# 图块大小
+TILE_SIZE = 32
